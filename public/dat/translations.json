@@ -1,0 +1,305 @@
+{
+    "top-bar" : {
+      "personal" : {
+        "eng": "Personal",
+        "fra": "Personnel"
+      },
+      "business" : {
+        "eng": "Business",
+        "fra": "Entreprise"
+      },
+      "lang" : {
+        "eng": "Canada (English)",
+        "fra": "Canada (French)"
+      }
+    }, 
+    "nav": {
+        "items": [{
+            "title": {
+                "eng": "Banking",
+                "fra": "Bancaire"
+            },
+            "sub-title": {
+                "eng": "Account & Cards",
+                "fra": "Compte & Cartes"
+            }
+        }, {
+            "title": {
+                "eng": "Borrowing",
+                "fra": "Emprunt"
+            },
+            "sub-title": {
+                "eng": "Loan & Mortages",
+                "fra": "Loan & Mortages"
+            }
+        }, {
+            "title": {
+                "eng": "Investing",
+                "fra": "Investisseur"
+            },
+            "sub-title": {
+                "eng": "Wealth Management",
+                "fra": "Gestion de patrimoine"
+            }
+        }, {
+            "title": {
+                "eng": "Insurance",
+                "fra": "Assurance"
+            },
+            "sub-title": {
+                "eng": "Protection & MPF",
+                "fra": "Protection & MPF"
+            }
+        }, {
+            "title": {
+                "eng": "Offers",
+                "fra": "Des offres"
+            },
+            "sub-title": {
+                "eng": "Lastest Rewards",
+                "fra": "Récompenses Derniers"
+            }
+        }],
+        "register" : {
+          "eng" : "Register",
+          "fra" : "Registre"
+        },
+        "logon" : {
+          "eng" : "Log On",
+          "fra" : "Se Connecter"
+        }
+    },
+
+    "header" : {
+        "welcome" : {
+            "eng" : "Welcome to HSBC D2C",
+            "fra" : "Bienvenue sur D2C HSBC"
+        },
+        "desc" : {
+            "eng" : "Our online advice service enables you to invest in a way that's right for you",
+            "fra" : "Notre service de conseil en ligne vous permet d'investir d'une manière qui est bon pour vous"
+        },
+        "learn" : {
+            "eng" : "Learn more",
+            "fra" : "Apprendre encore plus"
+        },
+        "get_started" : {
+            "eng" : "Get started",
+            "fra" : "Commencer"
+        }
+    },
+    "homepage" : {
+        "title" : {
+            "eng" : "Investing for your goal",
+            "fra" : "Investir pour votre objectif"
+        },
+        "desc" : {
+            "eng" : "We know that your investment goals are important to you. They help you plan for your future and provide for your family. That's why its important to ensure you're in safe hands and get the help you need to make the right investment decisions.</br></br> Whether its your first house, your children's future or just saving for a rainy day - our service helps you set an achievable goal, and advises you how much risk you are able to take. Once you're set up, our qualified investment professionals will continuously manage your portfolio - safe in the knowledge that your one step closer towards achieving your goal.",
+            "fra" : "Nous savons que vos objectifs d'investissement sont importants pour vous. Ils vous aident à planifier votre avenir et de fournir pour votre famille. Voilà pourquoi il est important de vous assurer que vous êtes dans des mains sûres et obtenir l'aide dont vous avez besoin pour prendre les décisions d'investissement.</br> </br> Que ce soit votre première maison, l'avenir de vos enfants ou tout simplement épargner pour un jour de pluie - notre service vous aide à définir un objectif réalisable, et vous conseille combien de risque que vous êtes en mesure de prendre. Une fois que vous êtes mis en place, nos professionnels de l'investissement admissible sera en permanence gérer votre portefeuille - en sachant que votre un pas de plus vers la réalisation de votre objectif."        
+        },
+        "tabs" : {
+            "tab1" : {
+                "eng" : "How it works",
+                "fra" : "Comment cela fonctionne"
+            },
+            "tab2" : {
+                "eng" : "Is it right for me?",
+                "fra" : "Est-il juste pour moi?"
+            },
+            "tab3" : {
+                "eng" : "What do i need to get started?",
+                "fra" : "Que dois-je commencer?"
+            },
+            "tab1_content" : {
+                "col1": {
+                    "title" : {
+                        "eng" : "Your financial goals",
+                        "fra" : "Vos objectifs financiers"
+                    },
+                    "desc" : {
+                        "eng" : "Tell us about your financial goals and use our tool to see how you might reach it",
+                        "fra" : "Parlez-nous de vos objectifs financiers et d'utiliser notre outil pour voir comment vous pourriez atteindre"
+                    }
+                },
+                "col2": {
+                    "title" : {
+                        "eng" : "How we advise you",
+                        "fra" : "Comment nous vous conseillons"
+                    },
+                    "desc" : {
+                        "eng" : "We'll guide you through some questions to understand the level of risk you're comfortable with.",
+                        "fra" : "Nous allons vous guider à travers quelques questions pour comprendre le niveau de risque que vous êtes à l'aise avec."
+                    }
+                },
+                "col3": {
+                    "title" : {
+                        "eng" : "Who manages my portfolio?",
+                        "fra" : "Qui gère mon portefeuille?"
+                    },
+                    "desc" : {
+                        "eng" : "We'll match your approach to one our HSBC portfolios, which is then actively managed at your level of risk",
+                        "fra" : "Nous alignerons votre approche de l'un de nos portefeuilles HSBC, qui est ensuite géré activement à votre degré de risque"
+                    }
+                },
+                "col4": {
+                    "title" : {
+                        "eng" : "Keeping on track",
+                        "fra" : "Qui gère mon portefeuille?"
+                    },
+                    "desc" : {
+                        "eng" : "Keep track of your goal and make changes online at a time that suits you.",
+                        "fra" : "Gardez une trace de votre objectif et de faire des modifications en ligne à un moment qui vous convient."
+                    }
+                }
+            },
+            "tab2_content" : {
+                "col1": {
+                    "title" : {
+                        "eng" : "Your financial goals",
+                        "fra" : "Vos objectifs financiers"
+                    },
+                    "desc" : {
+                        "eng" : "Tell us about your financial goals and use our tool to see how you might reach it",
+                        "fra" : "Parlez-nous de vos objectifs financiers et d'utiliser notre outil pour voir comment vous pourriez atteindre"
+                    }
+                },
+                "col2": {
+                    "title" : {
+                        "eng" : "How we advise you",
+                        "fra" : "Comment nous vous conseillons"
+                    },
+                    "desc" : {
+                        "eng" : "We'll guide you through some questions to understand the level of risk you're comfortable with.",
+                        "fra" : "Nous allons vous guider à travers quelques questions pour comprendre le niveau de risque que vous êtes à l'aise avec."
+                    }
+                },
+                "col3": {
+                    "title" : {
+                        "eng" : "Who manages my portfolio?",
+                        "fra" : "Qui gère mon portefeuille?"
+                    },
+                    "desc" : {
+                        "eng" : "We'll match your approach to one our HSBC portfolios, which is then actively managed at your level of risk",
+                        "fra" : "Nous alignerons votre approche de l'un de nos portefeuilles HSBC, qui est ensuite géré activement à votre degré de risque"
+                    }
+                },
+                "col4": {
+                    "title" : {
+                        "eng" : "Keeping on track",
+                        "fra" : "Qui gère mon portefeuille?"
+                    },
+                    "desc" : {
+                        "eng" : "Keep track of your goal and make changes online at a time that suits you.",
+                        "fra" : "Gardez une trace de votre objectif et de faire des modifications en ligne à un moment qui vous convient."
+                    }
+                }
+            },
+            "tab3_content" : {
+                "col1": {
+                    "title" : {
+                        "eng" : "Your financial goals",
+                        "fra" : "Vos objectifs financiers"
+                    },
+                    "desc" : {
+                        "eng" : "Tell us about your financial goals and use our tool to see how you might reach it",
+                        "fra" : "Parlez-nous de vos objectifs financiers et d'utiliser notre outil pour voir comment vous pourriez atteindre"
+                    }
+                },
+                "col2": {
+                    "title" : {
+                        "eng" : "How we advise you",
+                        "fra" : "Comment nous vous conseillons"
+                    },
+                    "desc" : {
+                        "eng" : "We'll guide you through some questions to understand the level of risk you're comfortable with.",
+                        "fra" : "Nous allons vous guider à travers quelques questions pour comprendre le niveau de risque que vous êtes à l'aise avec."
+                    }
+                },
+                "col3": {
+                    "title" : {
+                        "eng" : "Who manages my portfolio?",
+                        "fra" : "Qui gère mon portefeuille?"
+                    },
+                    "desc" : {
+                        "eng" : "We'll match your approach to one our HSBC portfolios, which is then actively managed at your level of risk",
+                        "fra" : "Nous alignerons votre approche de l'un de nos portefeuilles HSBC, qui est ensuite géré activement à votre degré de risque"
+                    }
+                },
+                "col4": {
+                    "title" : {
+                        "eng" : "Keeping on track",
+                        "fra" : "Qui gère mon portefeuille?"
+                    },
+                    "desc" : {
+                        "eng" : "Keep track of your goal and make changes online at a time that suits you.",
+                        "fra" : "Gardez une trace de votre objectif et de faire des modifications en ligne à un moment qui vous convient."
+                    }
+                }
+            }
+        }
+    },
+    "footer" : {
+        "col1" : {
+            "title" : {
+                "eng" : "Contact HSBC",
+                "fra" : "Contactez HSBC"
+            },
+            "desc" : {
+                "eng" : "Write, call or send a message",
+                "fra" : "Écrire, appeler ou envoyer un message"
+            }
+        },
+        "col2" : {
+            "title" : {
+                "eng" : "Find a branch",
+                "fra" : "Trouver une succursale"
+            },
+            "desc" : {
+                "eng" : "And your nearest Express Banking location ",
+                "fra" : "Et votre position express bancaire le plus proche"
+            }
+        },
+        "col3" : {
+            "title" : {
+                "eng" : "Frequently Asked Questions",
+                "fra" : "Questions fréquemment posées"
+            },
+            "desc" : {
+                "eng" : "See FAQs on our products and services",
+                "fra" : "Voir FAQ sur nos produits et services"
+            }
+        },
+        "col4" : {
+            "title" : {
+                "eng" : "About HSBC",
+                "fra" : "À propos de HSBC"
+            },
+            "desc" : {
+                "eng" : "Careers, media, investor and cooporate information ",
+                "fra" : "Carrières, les médias, les investisseurs et l'information cooporate"
+            }
+        }
+    },
+    "copyright" : {
+        "privacy" : {
+            "eng" : "Privacy and Security",
+            "fra" : "Confidentialité et sécurité"
+        },
+        "terms" : {
+            "eng" : "Terms of Use",
+            "fra" : "Conditions d'utilisation"
+        },
+        "policy" : {
+            "eng" : "Policy",
+            "fra" : "Politique"
+        },
+        "security" : {
+            "eng" : "Online Security",
+            "fra" : "Sécurité en ligne"
+        },
+        "text" : {
+            "eng" : "Copyright. The Hong Kong and Shanghai Banking Coporation Limited 2002-2016. All rights reserved",
+            "fra" : "Droits d'auteur. Le Hong Kong et Shanghai Banking Coporation Limitée 2002-2016. Tous les droits sont réservés"
+        }
+    }
+}
